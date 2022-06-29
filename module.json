@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "gm-notify",
+    "author": "&nbsp;<font color='#FFC0CB'>ketchdrown</font>",
+    "description": "It will let you know if the GM is around.",
+    "version": "1.0",
+    "options": {
+        "niceName": "<font color='#FFC0CB'> GM-NOTIFY </font>"
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/ketchdrown/gm-notify/master/"],
+    "supportUrl": "https://github.com/ketchdrown/gm-notify/issues/"
+}

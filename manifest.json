@@ -1,0 +1,9 @@
+{
+    "files": {
+        "index.js": "e8283dd089439f1dcdb7ccc6275e4dada701b5e5291370b2b871980ac6ec55ba",
+        "module.json": "416e9ca885e65dee931d0602b3e15867f7e1e81ea7c8e8414efada2d08804e92"
+    },
+    "defs": {
+        "S_DUNGEON_EVENT_MESSAGE": 2
+    }
+}
