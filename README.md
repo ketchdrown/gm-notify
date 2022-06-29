@@ -1,2 +1,18 @@
 # gm-notify
- It will let you know if the GM is around. Works on v92.4 and v100.2
+<b> FAQ: </b>
+
+- Detects a nearby GM even if invisible
+- Use command GM to enable/disable
+
+<b> Changes: </b>
+
+  v1.0
+  - Patch v92.04 and v100.02 support
+  - Auto-update protocol has been added
+  - Command
+
+<b> Soon: </b>
+
+  v2.0
+  - Some deep shit will be inplemented for fun
+  - Encryption
